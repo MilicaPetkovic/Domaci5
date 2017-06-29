@@ -1,0 +1,124 @@
+.prvi {
+	position: relative;
+	width: 100%;
+	max-width: 250px;
+	margin-top: 50px;
+	display: inline-block;
+	border: 5px solid #e0e0e0;
+
+}
+
+.krug {
+	position: absolute;
+	background: #ffffff;
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	top: 55px;
+	left: 96px;
+
+}
+
+.cover {
+	background-image: url(berries.jpg);
+	background-size: cover;
+	height: 75px;
+	background-position: center center;
+}
+.text {
+	text-align: center;
+	padding-top: 5px;
+	background: #fff;
+	height: 50px;
+}
+
+.ikonica {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.main {
+	width: 100%;
+	text-align: center;
+	margin-top: 250px;
+
+}
+
+.drugi {
+	position: relative;
+	width: 100%;
+	max-width: 250px;
+	margin-top: 50px;
+	display: inline-block;
+	border: 5px solid #e0e0e0;
+
+}
+
+.krug1 {
+	position: absolute;
+	background: #fff;
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	top: 55px;
+	left: 96px;
+}
+
+.cover1 {
+	background-image: url(lego.jpg);
+	background-size: cover;
+	height: 75px;
+	background-position: center center;
+}
+
+.text1 {
+	text-align: center;
+	padding-top: 5px;
+	background: #fff;
+	height: 50px;
+}
+
+.ikonica1 {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.treci {
+	position: relative;
+	width: 100%;
+	max-width: 250px;
+	margin-top: 50px;
+	display: inline-block;
+	border: 5px solid #e0e0e0;
+
+}
+
+.krug2 {
+	position: absolute;
+	background: #ffffff;
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	top: 55px;
+	left: 96px;
+
+}
+
+.cover2 {
+	background-image: url(notebook.jpg);
+	background-size: cover;
+	height: 75px;
+	background-position: center center;
+}
+.text2 {
+	text-align: center;
+	padding-top: 5px;
+	background: #fff;
+	height: 50px;
+}
+
+.ikonica2 {
+	text-align: center;
+	margin-top: 10px;
+}
+
